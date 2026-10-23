@@ -250,21 +250,6 @@ This produces an upgrade acceptance rate of:
 
 The positive class is therefore smaller than the negative class, although the imbalance is not extreme.
 
-### Suggested Repository Visual
-
-Place the generated class-balance figure in:
-
-```text
-assets/class_balance.png
-```
-
-Then add:
-
-```markdown
-![Upgrade Class Balance](assets/class_balance.png)
-```
-
----
 
 # Subscriber Behavior Findings
 
